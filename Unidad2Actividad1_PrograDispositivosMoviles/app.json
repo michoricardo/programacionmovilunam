@@ -1,0 +1,28 @@
+{
+  "expo": {
+    "name": "actividad-1-unidad-2-actividad-de-alerta-micho",
+    "slug": "snack-191d30f2-df05-43a1-9f11-c0a4bc9235b0",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "https://callstack.github.io/react-native-paper/modal.html"
+  }
+}
